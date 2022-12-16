@@ -48,7 +48,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
  
 </table>
  
- check application <a href="https://wandersondefariasprogramador.github.io/Ecommerce-website/
+ check application <a href=" https://wandersondefariasprogramador.github.io/SITE-DE-BICICLETAS/
  ">HERE!</a>
 
 
